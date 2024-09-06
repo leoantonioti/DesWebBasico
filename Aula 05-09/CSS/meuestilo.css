@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+
+#html5{
+    height: 50%;
+    width: 50%;
+}
+
+figure{
+    margin-left: 30%;
+
+}
+
+table, tr, td, th{
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    border-width: 1px;
+    
+}
+
+td:hover{
+    background-color: rgb(246, 92, 103);
+    color: white;
+}
+
+@media (max-width:500px){
+    body{
+        background-color: black
+    }
+}
