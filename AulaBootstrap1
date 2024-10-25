@@ -31,6 +31,18 @@
             <h1>Página Bootstrap</h1>
             <p>Esta é uma div da classe row p-5 my-5 e border</p>
         </div>
+        <div class="row p-5 my-5">
+            <div class="col bg-primary text-white">
+                <p>Coluna 1</p>
+            </div>
+            <div class="col bg-dark text-white">
+                <p>Coluna 2</p>
+            </div>
+            <div class="col">
+                <p>Coluna 3</p>
+            </div>
+
+        </div>
 
     </div>
 </body>
